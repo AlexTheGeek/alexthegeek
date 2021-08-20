@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=AlexTheGeek&count_private=true&show_icons=true&theme=dark"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexTheGeek&layout=compact&theme=dark&hide=html"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=AlexTheGeek&count_private=true&show_icons=true&theme=dracula"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexTheGeek&layout=compact&theme=dracula&hide=html"/>
 <!--
 **AlexTheGeek/alexthegeek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
