@@ -9,6 +9,7 @@
   <img alt="Apache2" src="https://img.shields.io/badge/-Apache2-cc0033?style=flat&logo=apache&logoColor=white"/>
   <img alt="Proxmox" src="https://img.shields.io/badge/-Proxmox-E57000?style=flat&logo=proxmox&logoColor=white" /> 
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" />  
+  <img alt="Debian" src="https://img.shields.io/badge/-Debian-005370?style=flat&logo=debian&logoColor=white" />  
   <img alt="KaliLinux" src="https://img.shields.io/badge/-KaliLinux-557C94?style=flat&logo=kali-linux&logoColor=white" />
   <img alt="WireGuard" src="https://img.shields.io/badge/-WireGuard-88171A?style=flat&logo=wireguard&logoColor=white" />  
   <img alt="WireShark" src="https://img.shields.io/badge/-WireShark-1679A7?style=flat&logo=wireshark&logoColor=white" /> 
