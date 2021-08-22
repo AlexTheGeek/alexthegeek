@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I am Alexis !
 [Portfolio](https://cv.lapinfo.fr) | [Linkedin](https://sl.lapinfo.fr/linkedin) | [Github](https://sl.lapinfo.fr/github)
 
 
@@ -19,9 +19,12 @@
   <img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white" />
 </p>
 
+<!--
 ## Some Stats 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=AlexTheGeek&count_private=true&show_icons=true&theme=dracula"/>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexTheGeek&layout=compact&theme=dracula"/>
+-->
+
 <!--
 **AlexTheGeek/alexthegeek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
