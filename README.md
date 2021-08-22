@@ -1,4 +1,6 @@
 ## Hi there 👋
+[Portfolio](https://cv.lapinfo.fr) | [Linkedin](https://sl.lapinfo.fr/linkedin) | [Github](https://sl.lapinfo.fr/github)
+
 
 ## 🛠️ Technologies and Tools
 <p>
