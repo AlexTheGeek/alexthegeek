@@ -1,7 +1,7 @@
 # Hi there 👋, I am Alexis ! <img align="right" src="https://github-readme-stats.vercel.app/api?username=alexthegeek&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&hide_title=true&theme=dracula"/>
 
 ## 📫 Contact
-[Portfolio](https://alexis-brunet.fr) | [Linkedin](https://sl.lapinfo.fr/linkedin) | <a href="mailto:contact@lapinfo.fr">Mail</a>
+[Portfolio](https://alexis-brunet.fr) | [Linkedin](https://sl.lapinfo.fr/linkedin) | <a href="mailto:contact@alexis-brunet.fr">Mail</a>
 
 
 ## 🛠️ Technologies and Tools
