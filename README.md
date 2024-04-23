@@ -1,7 +1,15 @@
-# Hi there 👋, I am Alexis ! <img align="right" src="https://github-readme-stats.vercel.app/api?username=alexthegeek&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&hide_title=true&theme=dracula"/>
+# Hi there 👋, I am Alexis ! 
+
 
 ## 📫 Contact
 [Portfolio](https://alexis-brunet.fr) | [Linkedin](https://linkedin.com/in/alexis-brunet) 
+
+## My GitHub Stats <img src="https://media2.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif?cid=ecf05e472sy191foql0okctbjdxbwd3wcywx85il2swgzble&rid=giphy.gif&ct=s" alt="alexthegeek" width="40" height="40"/>
+<br>
+<!--<img align="left" src="https://github-readme-stats.vercel.app/api?username=alexthegeek&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&hide_title=true&theme=dracula"/>-->
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=alexthegeek&count_private=true&show_icons=true&include_all_commits=true&hide_title=true&theme=dracula"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexthegeek" alt="alexthegeek" />
 
 
 ## 🛠️ Technologies and Tools
