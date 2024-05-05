@@ -8,15 +8,6 @@
 <a href="https://links.alexis-brunet.fr"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/></a>
 
 
-
-<h2><img src="https://media2.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif?cid=ecf05e472sy191foql0okctbjdxbwd3wcywx85il2swgzble&rid=giphy.gif&ct=s" alt="alexthegeek" width="40" height="40"/> My GitHub Stats </h2>
-<br>
-<!--<img align="left" src="https://github-readme-stats.vercel.app/api?username=alexthegeek&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&hide_title=true&theme=dracula"/>-->
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=alexthegeek&count_private=true&show_icons=true&include_all_commits=true&hide_title=true&theme=dracula"/>
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=alexthegeek" alt="alexthegeek" />
-</p>
-
 <h2>🛠️ Technologies and Tools</h2>
 <p>
   <img alt="Bash" src="https://img.shields.io/badge/bash-%23CDCDCE.svg?style=for-the-badge&logo=gnubash&logoColor=1B1B1F"/>
@@ -51,6 +42,14 @@
   <img alt="Fedora" src="https://img.shields.io/badge/Fedora-294172.svg?style=for-the-badge&logo=Fedora&logoColor=white"/>
   <img alt="Kali Linux" src="https://img.shields.io/badge/Kali%20Linux-557C94.svg?style=for-the-badge&logo=kali-linux&logoColor=white"/>
   <img alt="Windows" src="https://img.shields.io/badge/windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white"/>
+</p>
+
+<h2><img src="https://media2.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif?cid=ecf05e472sy191foql0okctbjdxbwd3wcywx85il2swgzble&rid=giphy.gif&ct=s" alt="alexthegeek" width="40" height="40"/> My GitHub Stats </h2>
+<br>
+<!--<img align="left" src="https://github-readme-stats.vercel.app/api?username=alexthegeek&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&hide_title=true&theme=dracula"/>-->
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=alexthegeek&count_private=true&show_icons=true&include_all_commits=true&hide_title=true&theme=dracula"/>
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=alexthegeek" alt="alexthegeek" />
 </p>
 
 <!--
