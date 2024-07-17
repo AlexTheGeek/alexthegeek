@@ -3,9 +3,9 @@
 
 <h2>📫 Contact</h2>
 
-<a href="https://alexis-brunet.fr"><img src="https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+<!--<a href="https://alexis-brunet.fr"><img src="https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=About.me&logoColor=white"/></a>-->
 <a href="https://linkedin.com/in/alexis-brunet"><img src="https://img.shields.io/badge/Alexis%20Brunet-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://links.alexis-brunet.fr"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/></a>
+<!--<a href="https://links.alexis-brunet.fr"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/></a>-->
 
 
 <h2>🛠️ Technologies and Tools</h2>
