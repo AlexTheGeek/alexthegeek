@@ -40,6 +40,7 @@
   <img alt="Debian" src="https://img.shields.io/badge/debian-%23A81D33.svg?style=for-the-badge&logo=Debian&logoColor=white"/>
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white"/>
   <img alt="Fedora" src="https://img.shields.io/badge/Fedora-294172.svg?style=for-the-badge&logo=Fedora&logoColor=white"/>
+  <img alt="RHEL" src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>
   <img alt="Kali Linux" src="https://img.shields.io/badge/Kali%20Linux-557C94.svg?style=for-the-badge&logo=kali-linux&logoColor=white"/>
   <img alt="Windows" src="https://img.shields.io/badge/windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white"/>
 </p>
