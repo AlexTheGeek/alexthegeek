@@ -45,14 +45,16 @@
   <img alt="Windows" src="https://img.shields.io/badge/windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white"/>
 </p>
 
+<!--
 <h2><img src="https://media2.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif?cid=ecf05e472sy191foql0okctbjdxbwd3wcywx85il2swgzble&rid=giphy.gif&ct=s" alt="alexthegeek" width="40" height="40"/> My GitHub Stats </h2>
-<br>
+<br>-->
 <!--<img align="left" src="https://github-readme-stats.vercel.app/api?username=alexthegeek&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&hide_title=true&theme=dracula"/>-->
+ <!-- 
 <p align="center">
- <!-- <img width="45%" src="https://github-readme-stats.vercel.app/api?username=alexthegeek&count_private=true&show_icons=true&include_all_commits=true&hide_title=true&theme=dracula"/> -->
+<img width="45%" src="https://github-readme-stats.vercel.app/api?username=alexthegeek&count_private=true&show_icons=true&include_all_commits=true&hide_title=true&theme=dracula"/> 
   <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=alexthegeek" alt="alexthegeek" />
 </p>
-
+-->
 <!--
 ## Some Stats 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=alexthegeek&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&hide_title=true&theme=dracula"/>
